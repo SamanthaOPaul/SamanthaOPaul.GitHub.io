@@ -15,7 +15,7 @@ For this step by step analysis, I go over Door Dash data to create a better mark
 
 ---
 #### [Space Missions Dataset Using Excel](https://www.linkedin.com/pulse/space-missions-dataset-using-excel-samantha-paul/?trackingId=VWpC1xFYS%2FOKLeiBCtu8fQ%3D%3D/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/nasa-dCgbRAQmTQA-unsplash.jpg?raw=true"/>]
 In this analysis, I look over Space Missions from 1959 to 2022 to focus on missions that were successful and unsuccessful. I also take a dive into the financial aspect to space missions and figure out why budgets vary so widely. 
 
 ---
