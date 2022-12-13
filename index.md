@@ -5,7 +5,7 @@
 ### Projects
 
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Your paragraph text (1).png?raw=true"/>
 In this project, I explore the state of Massachsett's educational data. It talks about where the state needs to focus to grow college attendence, what class room size to maintain, schools that are falling behind and reccomendations on what to do. 
 
 ---
