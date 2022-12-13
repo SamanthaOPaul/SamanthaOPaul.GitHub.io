@@ -2,31 +2,29 @@
 
 ---
 
-### General Analytics Projects
+### Projects
 
-#### [Internal Blog Post Project](/sample_project)
+#### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+In this project, I explore the state of Massachsett's educational data. It talks about where the state needs to focus to grow college attendence, what class room size to maintain, schools that are falling behind and reccomendations on what to do. 
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Door Dash Market Analysis Using Excel](https://www.linkedin.com/pulse/door-dash-market-analysis-using-excel-samantha-paul/)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this step by step analysis, I go over Door Dash data to create a better marketing campaign. Things like what age groups are spending the most on the app, what the average being spent are and reccomendations to do next to increase users and spending.
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Space Missions Dataset Using Excel](https://www.linkedin.com/pulse/space-missions-dataset-using-excel-samantha-paul/?trackingId=VWpC1xFYS%2FOKLeiBCtu8fQ%3D%3D/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+In this analysis, I look over Space Missions from 1959 to 2022 to focus on missions that were successful and unsuccessful. I also take a dive into the financial aspect to space missions and figure out why budgets vary so widely. 
 
 ---
 
-### Category Name 2
+### Projects Listed
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Massachusetts Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+- [Door Dash Market Analysis Using Excel](https://www.linkedin.com/pulse/door-dash-market-analysis-using-excel-samantha-paul/)
+- [Space Missions Dataset Using Excel](https://www.linkedin.com/pulse/space-missions-dataset-using-excel-samantha-paul/?trackingId=oph6SncKQquQIPr8%2BkmSDA%3D%3D/)
 
 ---
 
