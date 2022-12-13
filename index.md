@@ -10,7 +10,7 @@ In this project, I explore the state of Massachsett's educational data. It talks
 
 ---
 #### [Door Dash Market Analysis Using Excel](https://www.linkedin.com/pulse/door-dash-market-analysis-using-excel-samantha-paul/)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+<img src="images/Blue and Red Modern Food Delivery Instagram Post (2).png?raw=true"/>
 For this step by step analysis, I go over Door Dash data to create a better marketing campaign. Things like what age groups are spending the most on the app, what the average being spent are and reccomendations to do next to increase users and spending.
 
 ---
