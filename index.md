@@ -6,12 +6,12 @@
 
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 <img src="images/Your paragraph text (1).png?raw=true"/>
-In this project, I explore the state of Massachsett's educational data. It talks about where the state needs to focus to grow college attendence, what class room size to maintain, schools that are falling behind and reccomendations on what to do. 
+In this project, I explore the state of Massachsett's educational data. It talks about where the state needs to focus to grow college attendance, what class room size to maintain, schools that are falling behind and reccomendations on what to do. 
 
 ---
 #### [Door Dash Market Analysis Using Excel](https://www.linkedin.com/pulse/door-dash-market-analysis-using-excel-samantha-paul/)
 <img src="images/Blue and Red Modern Food Delivery Instagram Post (2).png?raw=true"/>
-For this step by step analysis, I go over Door Dash data to create a better marketing campaign. Things like what age groups are spending the most on the app, what the average being spent are and reccomendations to do next to increase users and spending.
+For this step by step analysis, I go over Door Dash data to create a better marketing campaign. Things like what age groups are spending the most on the app, what the average being spent are and recommendations to do next to increase users and spending.
 
 ---
 #### [Space Missions Dataset Using Excel](https://www.linkedin.com/pulse/space-missions-dataset-using-excel-samantha-paul/?trackingId=VWpC1xFYS%2FOKLeiBCtu8fQ%3D%3D/)
