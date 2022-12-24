@@ -3,6 +3,10 @@
 ---
 
 ### Projects
+#### [The World Bank Analysis with SQL](https://www.linkedin.com/pulse/world-bank-analysis-sql-samantha-paul/)
+<img src="images/Your paragraph text (1).png?raw=true"/>
+In this analysis, I uncover specific findings using The World Bank financial data. I focus on the top borrowers, the average The World Bank is lending out and how much money is being paid back.  
+
 
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 <img src="images/Your paragraph text (1).png?raw=true"/>
