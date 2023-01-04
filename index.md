@@ -4,7 +4,7 @@
 
 ### Projects
 #### [Healthcare Analysis with SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul)
-<img src="images/TheWorldBankSQL.png?raw=true"/>
+<img src="images/Blue White Color Blocks Medicine & Nursing Resume Website.png?raw=true"/>
 Using MySQL, I uncover issues with readmittance to the hospital, the correlation between patients staying longer in the hospital and having more lab procedures done and which medical specialites are causing these high numbers.
 
 ---
