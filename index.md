@@ -31,6 +31,7 @@ In this analysis, I look over Space Missions from 1959 to 2022 to focus on missi
 
 ### Projects Listed
 
+- [Healthcare Analysis with SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul/)
 - [The World Bank Analysis with SQL](https://www.linkedin.com/pulse/world-bank-analysis-sql-samantha-paul/)
 - [Massachusetts Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 - [Door Dash Market Analysis Using Excel](https://www.linkedin.com/pulse/door-dash-market-analysis-using-excel-samantha-paul/)
