@@ -3,11 +3,16 @@
 ---
 
 ### Projects
+#### [Healthcare Analysis with SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul)
+<img src="images/TheWorldBankSQL.png?raw=true"/>
+Using MySQL, I uncover issues with readmittance to the hospital, the correlation between patients staying longer in the hospital and having more lab procedures done and which medical specialites are causing these high numbers.
+
+---
 #### [The World Bank Analysis with SQL](https://www.linkedin.com/pulse/world-bank-analysis-sql-samantha-paul/)
 <img src="images/TheWorldBankSQL.png?raw=true"/>
 In this analysis, I uncover specific findings using The World Bank financial data. I focus on the top borrowers, the average The World Bank is lending out and how much money is being paid back.  
 
-
+---
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 <img src="images/Your paragraph text (1).png?raw=true"/>
 In this project, I explore the state of Massachsett's educational data. It talks about where the state needs to focus to grow college attendance, what class room size to maintain, schools that are falling behind and reccomendations on what to do. 
