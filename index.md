@@ -5,7 +5,7 @@
 ### Projects
 #### [Healthcare Analysis with SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul)
 <img src="images/Blue White Color Blocks Medicine & Nursing Resume Website.png?raw=true"/>
-Using MySQL, I uncover issues with readmittance to the hospital, the correlation between patients staying longer in the hospital and having more lab procedures done and which medical specialites are causing these high numbers.
+Using MySQL, I uncover issues with readmittance to the hospital, the correlation between patients staying longer in the hospital and having more lab procedures done and which medical specialties are causing these high numbers.
 
 ---
 #### [The World Bank Analysis with SQL](https://www.linkedin.com/pulse/world-bank-analysis-sql-samantha-paul/)
@@ -15,7 +15,7 @@ In this analysis, I uncover specific findings using The World Bank financial dat
 ---
 #### [Massachusetts Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
 <img src="images/Your paragraph text (1).png?raw=true"/>
-In this project, I explore the state of Massachsett's educational data. It talks about where the state needs to focus to grow college attendance, what class room size to maintain, schools that are falling behind and reccomendations on what to do. 
+In this project, I explore the state of Massachsett's educational data. It talks about where the state needs to focus to grow college attendance, what class room size to maintain, schools that are falling behind and recommendations  on what to do. 
 
 ---
 #### [Door Dash Market Analysis Using Excel](https://www.linkedin.com/pulse/door-dash-market-analysis-using-excel-samantha-paul/)
