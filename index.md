@@ -3,7 +3,8 @@
 ---
 
 ### Projects
-#### [Manufacturing Data using Python]([https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul](https://www.linkedin.com/pulse/manufacturing-data-using-python-samantha-paul/))<img src="images/Manufacturing Data using Python.png?raw=true"/>
+#### [Manufacturing Data using Python]([https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul](https://www.linkedin.com/pulse/manufacturing-data-using-python-samantha-paul/))
+<img src="images/Manufacturing Data using Python.png?raw=true"/>
 Analyzing mining data with Python, I was able to uncover if using depressants is a successful technique and the best mining dates which could lead to the most profitable mining sites.
 
 #### [Healthcare Analysis with SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul)
