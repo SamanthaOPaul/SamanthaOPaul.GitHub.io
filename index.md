@@ -3,7 +3,7 @@
 ---
 
 ### Projects
-#### [Manufacturing Data using Python]([https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul](https://www.linkedin.com/pulse/manufacturing-data-using-python-samantha-paul/))
+#### [Manufacturing Data using Python](https://www.linkedin.com/pulse/manufacturing-data-using-python-samantha-paul/))
 <img src="images/Manufacturing Data using Python.png?raw=true"/>
 Analyzing mining data with Python, I was able to uncover if using depressants is a successful technique and the best mining dates which could lead to the most profitable mining sites.
 
@@ -35,7 +35,7 @@ In this analysis, I look over Space Missions from 1959 to 2022 to focus on missi
 
 ### Projects Listed
 
--[Manufacturing Data using Python]([https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul](https://www.linkedin.com/pulse/manufacturing-data-using-python-samantha-paul/))
+-[Manufacturing Data using Python](https://www.linkedin.com/pulse/manufacturing-data-using-python-samantha-paul/))
 - [Healthcare Analysis with SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul/)
 - [The World Bank Analysis with SQL](https://www.linkedin.com/pulse/world-bank-analysis-sql-samantha-paul/)
 - [Massachusetts Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
