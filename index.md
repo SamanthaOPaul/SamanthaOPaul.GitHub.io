@@ -3,7 +3,7 @@
 ---
 
 ### Projects
-#### [Daylight Savings Time and Car Collisions Using Excel and Power BI][https://www.linkedin.com/pulse/daylight-savings-time-car-collisions-using-excel-power-samantha-paul/]
+#### [Daylight Savings Time and Car Collisions Using Excel and Power BI](https://www.linkedin.com/pulse/daylight-savings-time-car-collisions-using-excel-power-samantha-paul/)
 <img src="images/FinalPowerBiGroupProject.png.png?raw=true"/>
 This collaborative project, my team and I examined car collisions that happened during daylight savings time. To accomplish this, we cleaned and process our data with Excel, and then utilized Power BI to conduct further analysis. Employing different techniques to discover that Spring Forward correlated with the highest number of car collisions.
 
