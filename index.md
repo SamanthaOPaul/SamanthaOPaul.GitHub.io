@@ -3,10 +3,16 @@
 ---
 
 ### Projects
+#### [Daylight Savings Time and Car Collisions Using Excel and Power BI](https://[https://www.linkedin.com/pulse/daylight-savings-time-car-collisions-using-excel-power-samantha-paul/]
+<img src="images/ManufacturingPythonPIC.png?raw=true"/>
+This collaborative project, my team and I examined car collisions that happened during daylight savings time. To accomplish this, we cleaned and process our data with Excel, and then utilized Power BI to conduct further analysis. Employing different techniques to discover that Spring Forward correlated with the highest number of car collisions.
+
+---
 #### [Manufacturing Data using Python](https://www.linkedin.com/pulse/manufacturing-data-using-python-samantha-paul/)
 <img src="images/ManufacturingPythonPIC.png?raw=true"/>
 Analyzing mining data with Python, I was able to uncover if using depressants is a successful technique and the best mining dates which could lead to the most profitable mining sites.
 
+---
 #### [Healthcare Analysis with SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-samantha-paul)
 <img src="images/Blue White Color Blocks Medicine & Nursing Resume Website.png?raw=true"/>
 Using MySQL, I uncover issues with readmittance to the hospital, the correlation between patients staying longer in the hospital and having more lab procedures done and which medical specialties are causing these high numbers.
